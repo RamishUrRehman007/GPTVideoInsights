@@ -10,7 +10,7 @@ from openai import OpenAI
 
 base64Frames = list()
 video_path = "data/sample_video.mp4"
-api_key = "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"
+api_key = ""
 
 def center_window(window, width=800, height=1000):
     screen_width = window.winfo_screenwidth()
