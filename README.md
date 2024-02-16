@@ -50,3 +50,17 @@ Navigate to the project directory and install the required Python packages:
 cd GPTVideoInsights
 pip install -r requirements.txt
 ```
+
+#### Step 3: Replace Default Values and Run
+
+Replace the default values in the code with your own video path and OpenAI API key to personalize the application setup:
+
+```python
+12 video_path = "YOUR_VIDEO_PATH_HERE"
+13 api_key = "YOUR_API_KEY_HERE"
+```
+
+
+```bash
+python gpt_video_insights.py
+```
