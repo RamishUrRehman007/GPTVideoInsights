@@ -64,3 +64,11 @@ Replace the default values in the code with your own video path and OpenAI API k
 ```bash
 python gpt_video_insights.py
 ```
+
+## 🎥 Demo
+
+Watch the demo video here: [GPTVideoInsights Demo](https://youtu.be/oYPoF21_eW4)
+
+## 📘 For Users
+
+I implemented GPTVideoInsights to enable seamless integration into third-party projects as a dependency or library. This flexibility allows developers to incorporate advanced video analysis and insight generation capabilities directly into their applications, enhancing the value and functionality of their projects.
